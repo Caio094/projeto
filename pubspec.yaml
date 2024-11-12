@@ -31,7 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
   sqflite: ^2.2.7+2
-  sqflite_common_ffi: ^2.3.4 # ou a versão mais recente
+  sqflite_common_ffi: ^2.3.4
+  path: ^1.8.3 # Certifique-se de que o pacote 'path' também esteja incluído, se necessário
 
 
 dev_dependencies:
